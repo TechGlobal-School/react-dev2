@@ -18,4 +18,5 @@
 - Styling: external css file, inline with style={{}} or internal css object or use css libraries like tailwind etc.
 - Props (shorthand for properties)
   - Every component has by default empty props object
-  - 
+  - Props can be passed in way direction (parent -> child)
+  - Props can't be modified
